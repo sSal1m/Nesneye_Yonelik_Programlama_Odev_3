@@ -1,0 +1,14 @@
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\bin\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.exe
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\bin\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.deps.json
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\bin\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.runtimeconfig.json
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\bin\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.dll
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\bin\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.pdb
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.AssemblyInfoInputs.cache
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.AssemblyInfo.cs
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.csproj.CoreCompileInputs.cache
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.dll
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\refint\Nesneye_Yonelik_Programlama_Odev_3.dll
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.pdb
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\Nesneye_Yonelik_Programlama_Odev_3.genruntimeconfig.cache
+C:\Users\seha\source\repos\Nesneye_Yonelik_Programlama_Odev_3\obj\Debug\net8.0\ref\Nesneye_Yonelik_Programlama_Odev_3.dll
